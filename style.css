@@ -1,4 +1,4 @@
-﻿body {
+body {
   font-family: 'Roboto', sans-serif;
 }
 
@@ -58,7 +58,8 @@ header .row {
 
 .col-sm-4 p {
   margin: 25px 20px 15px;
-  min-width: 60px;
+  width: 60px;
+  height: 40px;
   padding: 1px;
 }
 
